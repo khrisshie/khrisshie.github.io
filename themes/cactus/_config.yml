@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/khris1120
+projects_url: https://github.com/khrisshie
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -17,7 +17,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: http://github.com/khris1120
+  projects: https://github.com/khrisshie
   search: /search/
 
 # Links to your social media accounts.
@@ -28,7 +28,7 @@ nav:
 # 'icon' value will be used as title when 'label' is missing.
 social_links:
   - icon: github
-    link: http://github.com/khris1120
+    link: https://github.com/khrisshie
   - icon: instagram
     link: https://www.instagram.com/mic.__.drop/
   - icon: mail
